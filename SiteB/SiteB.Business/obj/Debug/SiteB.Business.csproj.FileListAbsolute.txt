@@ -1,0 +1,9 @@
+C:\Projetos\Project\SiteB\SiteB.Business\obj\Debug\SiteB.Business.csprojResolveAssemblyReference.cache
+C:\Projetos\Project\SiteB\SiteB.Business\bin\Debug\SiteB.Business.dll
+C:\Projetos\Project\SiteB\SiteB.Business\bin\Debug\SiteB.Business.pdb
+C:\Projetos\Project\SiteB\SiteB.Business\bin\Debug\SiteB.Dados.dll
+C:\Projetos\Project\SiteB\SiteB.Business\bin\Debug\SiteB.Entities.dll
+C:\Projetos\Project\SiteB\SiteB.Business\bin\Debug\SiteB.Dados.pdb
+C:\Projetos\Project\SiteB\SiteB.Business\bin\Debug\SiteB.Entities.pdb
+C:\Projetos\Project\SiteB\SiteB.Business\obj\Debug\SiteB.Business.dll
+C:\Projetos\Project\SiteB\SiteB.Business\obj\Debug\SiteB.Business.pdb

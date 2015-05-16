@@ -1,0 +1,6 @@
+C:\Projetos\Project\SiteB\bin\SiteB.dll.config
+C:\Projetos\Project\SiteB\bin\SiteB.dll
+C:\Projetos\Project\SiteB\bin\SiteB.pdb
+C:\Projetos\Project\SiteB\obj\Debug\SiteB.csprojResolveAssemblyReference.cache
+C:\Projetos\Project\SiteB\obj\Debug\SiteB.dll
+C:\Projetos\Project\SiteB\obj\Debug\SiteB.pdb

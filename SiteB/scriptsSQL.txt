@@ -1,0 +1,20 @@
+
+CREATE TABLE SiteBLogin
+(
+	Id int Identity,
+	Nome nVarchar(100),
+	Email nVarchar(100),
+	Senha nVarchar(20),
+	CPF nVarchar(15),
+	Perfil nVarchar(20),
+	DtCriacao DateTime,
+	Ativo int
+)
+
+
+INSERT INTO SiteBLogin
+ (Nome, Email, Senha, CPF, Perfil, DtCriacao, Ativo)
+ VALUES
+ ('Marcelo Kiilian Heinsberg', 'marcelo.kiilian@gmail.com', 'Abcd0001', '178.057.258-10', 'Admin', GETDATE(), 1)
+
+ select * from SiteBLogin

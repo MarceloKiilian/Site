@@ -1,0 +1,4 @@
+C:\Projetos\Project\SiteB\SiteB.Entities\bin\Debug\SiteB.Entities.dll
+C:\Projetos\Project\SiteB\SiteB.Entities\bin\Debug\SiteB.Entities.pdb
+C:\Projetos\Project\SiteB\SiteB.Entities\obj\Debug\SiteB.Entities.dll
+C:\Projetos\Project\SiteB\SiteB.Entities\obj\Debug\SiteB.Entities.pdb
